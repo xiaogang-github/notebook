@@ -19,3 +19,5 @@
 补充各种业务处理能力
 flink
 各种技术的横向扩展对比 netty tomcat
+
+测试相关功能研究 powermock、easymock、mockito等
